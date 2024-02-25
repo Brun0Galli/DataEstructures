@@ -1,0 +1,3 @@
+C:/Users/bruni/OneDrive/Desktop/DataEstructures/first term/BidimensionalArrays/cmake-build-debug/CMakeFiles/BidimensionalArrays.dir
+C:/Users/bruni/OneDrive/Desktop/DataEstructures/first term/BidimensionalArrays/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bruni/OneDrive/Desktop/DataEstructures/first term/BidimensionalArrays/cmake-build-debug/CMakeFiles/rebuild_cache.dir
