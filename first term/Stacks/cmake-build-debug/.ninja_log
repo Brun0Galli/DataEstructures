@@ -1,0 +1,12 @@
+# ninja log v5
+5	587	7307926293888218	CMakeFiles/Stacks.dir/Stack.cpp.obj	b84f0edb3ce2ad1f
+10	400	7307927317269531	build.ninja	ef0a55a83346ce93
+114	263	7307927246278601	Stacks.exe	21bcf5bff80df837
+23	113	7307927244842126	CMakeFiles/Stacks.dir/Source.cpp.obj	f62dfdcd04e2cb59
+5	67	7307962959504496	CMakeFiles/Stacks.dir/Stack.cpp.obj	b84f0edb3ce2ad1f
+2	370	7307967818402096	CMakeFiles/Stacks.dir/Stack.cpp.obj	b84f0edb3ce2ad1f
+8	381	7307967818520533	CMakeFiles/Stacks.dir/Source.cpp.obj	f62dfdcd04e2cb59
+381	489	7307967819544056	Stacks.exe	21bcf5bff80df837
+4	482	7307970244757752	CMakeFiles/Stacks.dir/Stack.cpp.obj	b84f0edb3ce2ad1f
+10	506	7307970245003934	CMakeFiles/Stacks.dir/Source.cpp.obj	f62dfdcd04e2cb59
+506	616	7307970246001327	Stacks.exe	21bcf5bff80df837
