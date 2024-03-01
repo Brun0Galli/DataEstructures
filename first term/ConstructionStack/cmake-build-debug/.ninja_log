@@ -1,0 +1,10 @@
+# ninja log v5
+3	751	7310152587386420	CMakeFiles/ConstructionStack.dir/Source.cpp.obj	63b9404d35b153aa
+13	517	7310153353600277	CMakeFiles/ConstructionStack.dir/Functions.cpp.obj	83977bb35a73afd3
+7	534	7310153353786509	CMakeFiles/ConstructionStack.dir/Source.cpp.obj	63b9404d35b153aa
+32	607	7310153479801967	CMakeFiles/ConstructionStack.dir/Functions.cpp.obj	83977bb35a73afd3
+23	623	7310153479947288	CMakeFiles/ConstructionStack.dir/Source.cpp.obj	63b9404d35b153aa
+623	771	7310153481358626	ConstructionStack.exe	3a3f53b45b756510
+23	605	7310157730512624	CMakeFiles/ConstructionStack.dir/Functions.cpp.obj	83977bb35a73afd3
+17	606	7310157730512624	CMakeFiles/ConstructionStack.dir/Source.cpp.obj	63b9404d35b153aa
+607	744	7310157731835749	ConstructionStack.exe	3a3f53b45b756510

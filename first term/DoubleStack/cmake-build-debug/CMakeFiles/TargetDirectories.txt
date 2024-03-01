@@ -1,0 +1,3 @@
+C:/Users/bruni/OneDrive/Desktop/DataStructures/first term/DoubleStack/cmake-build-debug/CMakeFiles/DoubleStack.cpp.dir
+C:/Users/bruni/OneDrive/Desktop/DataStructures/first term/DoubleStack/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bruni/OneDrive/Desktop/DataStructures/first term/DoubleStack/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+"C:\Users\bruni\AppData\Local\Programs\CLion Nova\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\Stacks.dir/objects.a
+"C:\Users\bruni\AppData\Local\Programs\CLion Nova\bin\mingw\bin\ar.exe" qc CMakeFiles\Stacks.dir/objects.a @CMakeFiles\Stacks.dir\objects1.rsp
+"C:\Users\bruni\AppData\Local\Programs\CLion Nova\bin\mingw\bin\g++.exe" -g -Wl,--whole-archive CMakeFiles\Stacks.dir/objects.a -Wl,--no-whole-archive -o Stacks.exe -Wl,--out-implib,libStacks.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Stacks.dir\linkLibs.rsp

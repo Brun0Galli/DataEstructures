@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(Stacks Stack.cpp
         Source1.h
-        Source.cpp)
+        Source.cpp
+        )
