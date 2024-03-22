@@ -1,0 +1,13 @@
+# ninja log v5
+3	447	7326575111316606	CMakeFiles/DataEstructures.dir/ColaTurnos.cpp.obj	40874870f42cf2f2
+8	519	7326575112036577	CMakeFiles/DataEstructures.dir/Functions.cpp.obj	84f8518d03baf1e9
+519	736	7326575114171643	DataEstructures.exe	cb3ff892eec7bc3c
+6	429	7326575669337560	CMakeFiles/DataEstructures.dir/ColaTurnos.cpp.obj	40874870f42cf2f2
+430	709	7326575672092459	DataEstructures.exe	cb3ff892eec7bc3c
+7	409	7326578351531095	CMakeFiles/DataEstructures.dir/ColaTurnos.cpp.obj	40874870f42cf2f2
+410	684	7326578354247482	DataEstructures.exe	cb3ff892eec7bc3c
+6	451	7326581098469997	CMakeFiles/DataEstructures.dir/ColaTurnos.cpp.obj	40874870f42cf2f2
+11	453	7326581098490579	CMakeFiles/DataEstructures.dir/Functions.cpp.obj	84f8518d03baf1e9
+454	740	7326581101326507	DataEstructures.exe	cb3ff892eec7bc3c
+14	652	7326587120740847	CMakeFiles/DataEstructures.dir/Functions.cpp.obj	84f8518d03baf1e9
+653	1016	7326587124334498	DataEstructures.exe	cb3ff892eec7bc3c

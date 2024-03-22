@@ -1,0 +1,3 @@
+C:/Users/bruni/OneDrive/Desktop/DataStructures/second term/ColaTurnos/cmake-build-debug/CMakeFiles/DataEstructures.dir
+C:/Users/bruni/OneDrive/Desktop/DataStructures/second term/ColaTurnos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bruni/OneDrive/Desktop/DataStructures/second term/ColaTurnos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

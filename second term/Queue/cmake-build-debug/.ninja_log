@@ -1,0 +1,12 @@
+# ninja log v5
+3	681	7319643249848783	CMakeFiles/DataEstructures.dir/queue.cpp.obj	1ce8a9cb63021c84
+10	686	7319643249858777	CMakeFiles/DataEstructures.dir/Functions.cpp.obj	449a7b72ef833eb9
+687	991	7319643252876906	DataEstructures.exe	dadc12b4d2ab1614
+7	640	7319644154442049	CMakeFiles/DataEstructures.dir/Functions.cpp.obj	449a7b72ef833eb9
+641	791	7319644155889621	DataEstructures.exe	dadc12b4d2ab1614
+19	616	7319644654604887	CMakeFiles/DataEstructures.dir/queue.cpp.obj	1ce8a9cb63021c84
+617	748	7319644655858653	DataEstructures.exe	dadc12b4d2ab1614
+17	643	7319645515985943	CMakeFiles/DataEstructures.dir/queue.cpp.obj	1ce8a9cb63021c84
+644	779	7319645517287337	DataEstructures.exe	dadc12b4d2ab1614
+19	544	7319645928130739	CMakeFiles/DataEstructures.dir/queue.cpp.obj	1ce8a9cb63021c84
+546	679	7319645929426370	DataEstructures.exe	dadc12b4d2ab1614
